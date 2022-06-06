@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/redux_counter/static/js/main.92bd2eee.js",
+    "index.html": "/redux_counter/index.html",
+    "main.92bd2eee.js.map": "/redux_counter/static/js/main.92bd2eee.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.92bd2eee.js"
+  ]
+}
